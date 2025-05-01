@@ -1,2 +1,3 @@
-The aim of resume builder project is to provide a means by which candidates can present themselves effectively through their resumes the candidates is provided with an online form with details to be filled such as name, personal details, educational qualifications skills etc.. It is FullStack Project.
-This project was developed using languages and technologies such as HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL, and RDBMS.
+• The aim of resume builder project is to provide a means by which candidates can present themselves effectively through their resumes the candidates is provided with an online form with details to be filled such as name, personal details, educational qualifications skills etc.. It is FullStack Project.
+
+• This project was developed using languages and technologies such as HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL, and RDBMS.
